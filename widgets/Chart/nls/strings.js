@@ -1,6 +1,6 @@
 define({
   root: ({
-    _widgetLabel: "Estadísticas de origen Incendios",
+    _widgetLabel: "Estadísticas de origen Incendiossssssss",
     executeChartTip: "Click one of the following task items to execute chart.",
     invalidConfig: "Invalid configuration.",
     noneChartTip: "No chart task was configured for this widget.",
