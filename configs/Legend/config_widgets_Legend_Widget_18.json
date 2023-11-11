@@ -1,0 +1,47 @@
+{
+  "legend": {
+    "arrangement": 0,
+    "autoUpdate": true,
+    "respectCurrentMapScale": true
+  },
+  "layerState": {
+    "Prov_34": {
+      "selected": true
+    },
+    "muni_6538": {
+      "selected": true
+    },
+    "FocosIncendios_8331": {
+      "selected": true
+    },
+    "wms_5458": {
+      "selected": false
+    },
+    "wms_7461": {
+      "selected": false
+    },
+    "wms_9725": {
+      "selected": false
+    },
+    "wms_7315": {
+      "selected": false
+    },
+    "wms_8634": {
+      "selected": false
+    },
+    "wms_4118": {
+      "selected": false
+    },
+    "wms_6449": {
+      "selected": false
+    },
+    "wms_7491": {
+      "selected": false
+    },
+    "wms_372": {
+      "selected": false
+    }
+  },
+  "syncWithWebmap": true,
+  "showLegendForBasemap": false
+}

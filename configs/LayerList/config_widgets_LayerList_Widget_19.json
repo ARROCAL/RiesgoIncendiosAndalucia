@@ -1,0 +1,63 @@
+{
+  "showTitle": true,
+  "showBasemap": false,
+  "showLegend": true,
+  "expandAllLayersByDefault": true,
+  "contextMenu": {
+    "ZoomTo": false,
+    "Transparency": false,
+    "SetVisibilityRange": false,
+    "EnableOrDisablePopup": false,
+    "ControlLabels": false,
+    "MoveupOrMovedown": false,
+    "OpenAttributeTable": false,
+    "DescriptionOrShowItemDetailsOrDownload": false
+  },
+  "layerOptions": {
+    "FocosIncendios_8331": {
+      "display": true
+    },
+    "Prov_34": {
+      "display": true
+    },
+    "muni_6538": {
+      "display": true
+    },
+    "wms_9725": {
+      "display": true
+    },
+    "wms_9725_LC.LandCoverSurfaces": {
+      "display": true
+    },
+    "wms_4118": {
+      "display": true
+    },
+    "wms_4118_historico_incendios": {
+      "display": true
+    },
+    "wms_6449": {
+      "display": true
+    },
+    "wms_6449_mapa_orientaciones_10": {
+      "display": true
+    },
+    "wms_7491": {
+      "display": true
+    },
+    "wms_7491_pendiente_02": {
+      "display": true
+    },
+    "wms_372": {
+      "display": true
+    },
+    "wms_372_elevaciones_02": {
+      "display": true
+    },
+    "wms_8634": {
+      "display": true
+    },
+    "wms_8634_c4_13": {
+      "display": true
+    }
+  }
+}

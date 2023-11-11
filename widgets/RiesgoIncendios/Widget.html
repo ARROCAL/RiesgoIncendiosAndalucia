@@ -1,0 +1,41 @@
+<div>
+	<label for="idSelectProvincia">Provincia</label>
+	<select id="idSelectProvincia" data-dojo-attach-point="selectProvincia" data-dojo-type="dijit/form/FilteringSelect">
+		<option value="-1">Seleccione provincia</option>
+		<option value="04">Almería</option>
+		<option value="11">Cádiz </option>
+		<option value="14">Córdoba</option>
+		<option value="18">Granada</option>
+		<option value="21">Huelva</option>
+		<option value="23">Jaén</option>
+		<option value="29">Malága</option>
+		<option value="41">Sevilla</option>
+	</select>
+	<label for="idSelectMunicipio">Municipio</label>
+	<select id="idSelectMunicipio" data-dojo-attach-point="selectMunicipio" data-dojo-type="dijit/form/FilteringSelect" style="width: 150px;"></select>
+	<button  data-dojo-type="dijit/form/Button" class="jimu-btn aceptar" style="color: white; background-color: #267030;"data-dojo-attach-point="btnAceptar">Aceptar</button><br><br>
+
+	<div id="idDivResult" style="display: none;">
+		
+		<a href="https://www.aemet.es/es/nota_legal" target="_blank">Nota legal AEMET</a>
+		<!-- TEMPERATURA -->
+			<h2 style="margin-top: 10px;">Temperatura</h2>
+			<ul id="idUlTemp" style="margin-top: -6px;">
+				<li id ="idLiTempMax"></li>
+				<li id ="idLiTempMin"></li>
+			</ul>
+		<!-- HUMEDAD -->
+			<h2 style="margin-top: -10px;">Humedad relativa</h2>
+			<ul id="idUlWet" style="margin-top: -6px;">
+				<li id ="idLiWetMax"></li>
+				<li id ="idLiWetMin"></li>
+			</ul>
+		<!-- VIENTO -->
+			<h2 style="margin-top: -10px;">Viento</h2>
+			<ul id="idUlWind" style="margin-top: -6px; margin-bottom: 5px">
+			</ul>
+		<a id ="idLinkAemetMuni" target="_blank">Datos meteorológicos del municipio en la AEMET</a><br><br>
+		<a id ="idRiesgoAemetPorProvincia" target="_blank">Riesgo de incendio de la provincia según la AEMET</a>
+	</div>
+</div>
+

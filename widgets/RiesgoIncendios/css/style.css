@@ -1,0 +1,16 @@
+select {
+    border-radius: 4px;
+    padding-top: 1;
+    border-width: 2.5px;
+    border-color: #267030;
+	height: 24px
+}
+
+.aceptar{
+	color: white;
+    background-color: #267030;
+    /* height: 37px;
+    width: 81px; */
+	line-height: 23px;
+	padding: 0;
+}

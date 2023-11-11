@@ -1,0 +1,126 @@
+{
+  "editor": {
+    "enableUndoRedo": true,
+    "toolbarVisible": false,
+    "toolbarOptions": {
+      "mergeVisible": false,
+      "cutVisible": false,
+      "reshapeVisible": false
+    },
+    "honorSettingOfWebmap": false,
+    "layerInfos": [
+      {
+        "featureLayer": {
+          "id": "FocosIncendios_8331"
+        },
+        "disableGeometryUpdate": true,
+        "allowCreate": true,
+        "allowDelete": true,
+        "fieldInfos": [
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": false,
+            "visible": false
+          },
+          {
+            "fieldName": "PROVINCIA",
+            "label": "PROVINCIA",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MUNICIPIO",
+            "label": "MUNICIPIO",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FECHA",
+            "label": "FECHA",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ORIGEN",
+            "label": "ORIGEN",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESPECIE_PRINCIPAL",
+            "label": "ESPECIE PRINCIPAL",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ESPECIE_SECUNDARIA",
+            "label": "ESPECIE SECUNDARIA",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "FCC",
+            "label": "FCC (%)",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "MODELO_COMBUSTIBLE",
+            "label": "MODELO DE COMBUSTIBLE Rothermel & Albini",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "TEMPERATURA",
+            "label": "TEMPERATURA (º C)",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "HUMEDAD",
+            "label": "HUMEDAD (%)",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "VELOCIDAD_VIENTO",
+            "label": "VELOCIDAD DEL VIENTO (Km\\h))",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "PENDIENTE",
+            "label": "PENDIENTE (%)",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ALTITUD",
+            "label": "ALTITUD (m)",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ORIENTACION",
+            "label": "ORIENTACION",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "SUPERFICIE_QUEMADA",
+            "label": "SUPERFICIE QUEMADA (Ha)",
+            "isEditable": true,
+            "visible": true
+          }
+        ]
+      }
+    ],
+    "useFilterEdit": false,
+    "autoApplyEditWhenGeometryIsMoved": false,
+    "snappingTolerance": 15,
+    "popupTolerance": 5,
+    "stickyMoveTolerance": 0,
+    "usingSaveButton": true
+  }
+}

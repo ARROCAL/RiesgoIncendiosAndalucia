@@ -1,0 +1,664 @@
+{
+  "charts": [
+    {
+      "url": "",
+      "filter": {
+        "logicalOperator": "AND",
+        "parts": [],
+        "expr": "1=1"
+      },
+      "description": "",
+      "symbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      },
+      "webMapLayerId": "FocosIncendios_8331",
+      "mode": "count",
+      "name": "Focos de incendios detectados por origen",
+      "highLightColor": "#ff0000",
+      "types": [
+        {
+          "type": "column",
+          "display": {
+            "colors": [
+              "#5d9cd3"
+            ],
+            "showHorizontalAxis": true,
+            "showVerticalAxis": true
+          }
+        }
+      ],
+      "categoryField": "ORIGEN",
+      "sortOrder": {
+        "isLabelAxis": false,
+        "isAsc": false
+      }
+    },
+    {
+      "url": "",
+      "filter": {
+        "logicalOperator": "AND",
+        "parts": [],
+        "expr": "1=1"
+      },
+      "description": "",
+      "symbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      },
+      "webMapLayerId": "FocosIncendios_8331",
+      "mode": "count",
+      "name": "Focos de incendios detectados por modelo de combustible",
+      "highLightColor": "#ff0000",
+      "types": [
+        {
+          "type": "column",
+          "display": {
+            "colors": [
+              "#5d9cd3"
+            ],
+            "showHorizontalAxis": true,
+            "showVerticalAxis": true
+          }
+        }
+      ],
+      "categoryField": "MODELO_COMBUSTIBLE",
+      "sortOrder": {
+        "isLabelAxis": false,
+        "isAsc": false
+      }
+    },
+    {
+      "url": "",
+      "filter": {
+        "logicalOperator": "AND",
+        "parts": [],
+        "expr": "1=1"
+      },
+      "description": "",
+      "symbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      },
+      "webMapLayerId": "FocosIncendios_8331",
+      "mode": "count",
+      "name": "Focos de incendios detectados por provincia",
+      "highLightColor": "#ff0000",
+      "types": [
+        {
+          "type": "column",
+          "display": {
+            "colors": [
+              "#5d9cd3"
+            ],
+            "showHorizontalAxis": true,
+            "showVerticalAxis": true
+          }
+        }
+      ],
+      "categoryField": "PROVINCIA",
+      "sortOrder": {
+        "isLabelAxis": false,
+        "isAsc": false
+      }
+    },
+    {
+      "url": "",
+      "filter": {
+        "logicalOperator": "AND",
+        "parts": [],
+        "expr": "1=1"
+      },
+      "description": "",
+      "symbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      },
+      "webMapLayerId": "FocosIncendios_8331",
+      "mode": "count",
+      "name": "Focos de incendios detectados por especie principal",
+      "highLightColor": "#ff0000",
+      "types": [
+        {
+          "type": "column",
+          "display": {
+            "colors": [
+              "#5d9cd3"
+            ],
+            "showHorizontalAxis": true,
+            "showVerticalAxis": true
+          }
+        }
+      ],
+      "categoryField": "ESPECIE_PRINCIPAL",
+      "sortOrder": {
+        "isLabelAxis": false,
+        "isAsc": false
+      }
+    },
+    {
+      "url": "",
+      "filter": {
+        "logicalOperator": "AND",
+        "parts": [],
+        "expr": "1=1"
+      },
+      "description": "",
+      "symbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      },
+      "webMapLayerId": "FocosIncendios_8331",
+      "mode": "count",
+      "name": "Focos de incendios detectados por especie secundaria",
+      "highLightColor": "#ff0000",
+      "types": [
+        {
+          "type": "column",
+          "display": {
+            "colors": [
+              "#5d9cd3"
+            ],
+            "showHorizontalAxis": true,
+            "showVerticalAxis": true
+          }
+        }
+      ],
+      "categoryField": "ESPECIE_SECUNDARIA",
+      "sortOrder": {
+        "isLabelAxis": false,
+        "isAsc": false
+      }
+    },
+    {
+      "url": "",
+      "filter": {
+        "logicalOperator": "AND",
+        "parts": [],
+        "expr": "1=1"
+      },
+      "description": "",
+      "symbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      },
+      "webMapLayerId": "FocosIncendios_8331",
+      "mode": "count",
+      "name": "Focos de incendios detectados por pendiente (%)",
+      "highLightColor": "#da2b14",
+      "types": [
+        {
+          "type": "column",
+          "display": {
+            "colors": [
+              "#5d9cd3"
+            ],
+            "showHorizontalAxis": true,
+            "showVerticalAxis": true
+          }
+        }
+      ],
+      "categoryField": "PENDIENTE",
+      "sortOrder": {
+        "isLabelAxis": false,
+        "isAsc": false
+      }
+    },
+    {
+      "url": "",
+      "filter": {
+        "logicalOperator": "AND",
+        "parts": [],
+        "expr": "1=1"
+      },
+      "description": "",
+      "symbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      },
+      "webMapLayerId": "FocosIncendios_8331",
+      "mode": "count",
+      "name": "Focos de incendios detectados por altitud  (m)",
+      "highLightColor": "#ff0000",
+      "types": [
+        {
+          "type": "column",
+          "display": {
+            "colors": [
+              "#5d9cd3"
+            ],
+            "showHorizontalAxis": true,
+            "showVerticalAxis": true
+          }
+        }
+      ],
+      "categoryField": "ALTITUD",
+      "sortOrder": {
+        "isLabelAxis": false,
+        "isAsc": false
+      }
+    },
+    {
+      "url": "",
+      "filter": {
+        "logicalOperator": "AND",
+        "parts": [],
+        "expr": "1=1"
+      },
+      "description": "",
+      "symbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      },
+      "webMapLayerId": "FocosIncendios_8331",
+      "mode": "count",
+      "name": "Focos de Incendios detectados por temperatura (ºC)",
+      "highLightColor": "#ff0000",
+      "types": [
+        {
+          "type": "column",
+          "display": {
+            "colors": [
+              "#5d9cd3"
+            ],
+            "showHorizontalAxis": true,
+            "showVerticalAxis": true
+          }
+        }
+      ],
+      "categoryField": "TEMPERATURA",
+      "sortOrder": {
+        "isLabelAxis": false,
+        "isAsc": false
+      }
+    },
+    {
+      "url": "",
+      "filter": {
+        "logicalOperator": "AND",
+        "parts": [],
+        "expr": "1=1"
+      },
+      "description": "",
+      "symbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      },
+      "webMapLayerId": "FocosIncendios_8331",
+      "mode": "count",
+      "name": "Focos de Incendios detectados por humedad (%)",
+      "highLightColor": "#ff0000",
+      "types": [
+        {
+          "type": "column",
+          "display": {
+            "colors": [
+              "#5d9cd3"
+            ],
+            "showHorizontalAxis": true,
+            "showVerticalAxis": true
+          }
+        }
+      ],
+      "categoryField": "HUMEDAD",
+      "sortOrder": {
+        "isLabelAxis": false,
+        "isAsc": false
+      }
+    },
+    {
+      "url": "",
+      "filter": {
+        "logicalOperator": "AND",
+        "parts": [],
+        "expr": "1=1"
+      },
+      "description": "",
+      "symbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      },
+      "webMapLayerId": "FocosIncendios_8331",
+      "mode": "count",
+      "name": "Focos de incendios detectados por velocidad del viento (Km\\h)",
+      "highLightColor": "#ff0000",
+      "types": [
+        {
+          "type": "column",
+          "display": {
+            "colors": [
+              "#5d9cd3"
+            ],
+            "showHorizontalAxis": true,
+            "showVerticalAxis": true
+          }
+        }
+      ],
+      "categoryField": "VELOCIDAD_VIENTO",
+      "sortOrder": {
+        "isLabelAxis": false,
+        "isAsc": false
+      }
+    },
+    {
+      "url": "",
+      "filter": {
+        "logicalOperator": "AND",
+        "parts": [],
+        "expr": "1=1"
+      },
+      "description": "",
+      "symbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      },
+      "webMapLayerId": "FocosIncendios_8331",
+      "mode": "count",
+      "name": "Focos de Incendios detectados por FCC (%)",
+      "highLightColor": "#ff0000",
+      "types": [
+        {
+          "type": "column",
+          "display": {
+            "colors": [
+              "#5d9cd3"
+            ],
+            "showHorizontalAxis": true,
+            "showVerticalAxis": true
+          }
+        }
+      ],
+      "categoryField": "FCC",
+      "sortOrder": {
+        "isLabelAxis": false,
+        "isAsc": false
+      }
+    },
+    {
+      "url": "",
+      "filter": {
+        "logicalOperator": "AND",
+        "parts": [],
+        "expr": "1=1"
+      },
+      "description": "",
+      "symbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      },
+      "webMapLayerId": "FocosIncendios_8331",
+      "mode": "count",
+      "name": "Focos de incendios detectados por superficie quemada (Ha)",
+      "highLightColor": "#ff0000",
+      "types": [
+        {
+          "type": "column",
+          "display": {
+            "colors": [
+              "#5d9cd3"
+            ],
+            "showHorizontalAxis": true,
+            "showVerticalAxis": true
+          }
+        }
+      ],
+      "categoryField": "SUPERFICIE_QUEMADA",
+      "sortOrder": {
+        "isLabelAxis": false,
+        "isAsc": false
+      }
+    }
+  ]
+}
