@@ -1,6 +1,6 @@
 define({
   root: ({
-    _widgetLabel: "Edit",
+    _widgetLabel: "Crear foco de Incendio",
     _featureAction_Edit: "Edit",
     title: "Select a template to create features",
     pressStr: "Press ",

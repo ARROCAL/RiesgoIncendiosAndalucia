@@ -1,5 +1,5 @@
 define({
-  "_widgetLabel": "Editar",
+  "_widgetLabel": "Crear foco de Incendio",
   "_featureAction_Edit": "Editar",
   "title": "Seleccionar una plantilla para crear entidades",
   "pressStr": "Pulsa ",
