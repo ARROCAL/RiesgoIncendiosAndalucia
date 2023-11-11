@@ -1,5 +1,5 @@
 define({
-  "_widgetLabel": "Estaditicas de origen Incendiosaaaaaa",
+  "_widgetLabel": "Estadísticas de origen Incendios",
   "executeChartTip": "Haz clic en una de las siguientes tareas para ejecutar el gráfico.",
   "invalidConfig": "Configuración no válida.",
   "noneChartTip": "No se ha configurado ninguna tarea de gráfico para este widget.",
