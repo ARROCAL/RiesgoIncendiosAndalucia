@@ -312,19 +312,11 @@
         "id": "widgets_Measurement_Widget_20"
       },
       {
-        "name": "BasemapGallery",
-        "version": "2.27",
-        "uri": "widgets/BasemapGallery/Widget",
-        "config": "configs/BasemapGallery/config_widgets_BasemapGallery_Widget_21.json",
-        "index": 5,
-        "id": "widgets_BasemapGallery_Widget_21"
-      },
-      {
         "name": "Print",
         "version": "2.27",
         "uri": "widgets/Print/Widget",
         "config": "configs/Print/config_widgets_Print_Widget_22.json",
-        "index": 6,
+        "index": 5,
         "id": "widgets_Print_Widget_22"
       },
       {
@@ -332,8 +324,17 @@
         "version": "2.27",
         "uri": "widgets/AddData/Widget",
         "config": "configs/AddData/config_widgets_AddData_Widget_23.json",
-        "index": 7,
+        "index": 6,
         "id": "widgets_AddData_Widget_23"
+      },
+      {
+        "name": "BasemapGallery",
+        "version": "2.27",
+        "uri": "widgets/BasemapGallery/Widget",
+        "config_2": "configs/BasemapGallery/config_widgets_BasemapGallery_Widget_24.json",
+        "config": "configs/BasemapGallery/config_widgets_BasemapGallery_Widget_24.json",
+        "index": 8,
+        "id": "widgets_BasemapGallery_Widget_24"
       }
     ],
     "groups": []
@@ -518,10 +519,8 @@
   "isTemplateApp": true,
   "isWebTier": false,
   "httpProxy": {
-    "useProxy": true,
-    "alwaysUseProxy": false,
-    "url": "",
-    "rules": []
+    "useProxy": false,
+    "url": "https://aarroyoc10a.indra.es:3344/proxy.js"
   },
   "dataSource": {
     "dataSources": {},
