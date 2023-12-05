@@ -519,8 +519,10 @@
   "isTemplateApp": true,
   "isWebTier": false,
   "httpProxy": {
-    "useProxy": false,
-    "url": "https://aarroyoc10a.indra.es:3344/proxy.js"
+    "useProxy": true,
+    "alwaysUseProxy": false,
+    "url": "",
+    "rules": []
   },
   "dataSource": {
     "dataSources": {},
