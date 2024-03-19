@@ -3,10 +3,10 @@
   "showInfoWindowOnSelect": false,
   "sources": [
     {
-      "layerId": "muni_6538",
-      "url": "https://services1.arcgis.com/nCKYwcSONQTkPA4K/arcgis/rest/services/muni/FeatureServer/2",
+      "layerId": "muni_3320",
+      "url": "https://services1.arcgis.com/nCKYwcSONQTkPA4K/arcgis/rest/services/muni/FeatureServer/6",
       "name": "Municipios",
-      "placeholder": "Municipio",
+      "placeholder": "",
       "searchFields": [],
       "displayField": "NAMEUNIT",
       "exactMatch": false,
