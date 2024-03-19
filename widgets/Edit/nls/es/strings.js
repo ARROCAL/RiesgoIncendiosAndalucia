@@ -9,7 +9,7 @@ define({
   "featureLayers": "Capas de entidades",
   "searchTemplates": "Buscar plantillas",
   "noAvailableTempaltes": "No hay plantillas disponibles",
-  "noCanCreateLayerAreCurrentlyVisible": "Actualmente no hay visible ninguna capa que se pueda crear.",
+  "noCanCreateLayerAreCurrentlyVisible": "La capa Focos de Incendios detectados tiene que estar activa",
   "layersAreInvisibleOrOutOfScaleRange": "Capas invisibles o fuera del rango de escala.",
   "relatedTables": "Tablas relacionadas:",
   "relatedRecords": "Registros relacionados:",

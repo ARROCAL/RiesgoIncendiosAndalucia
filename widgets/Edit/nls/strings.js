@@ -10,7 +10,7 @@ define({
     featureLayers: "Feature layers",
     searchTemplates: "Search templates",
     noAvailableTempaltes: "No available templates",
-    noCanCreateLayerAreCurrentlyVisible: "No creatable layers are currently visible.",
+    noCanCreateLayerAreCurrentlyVisible: "La capa Focos de Incendios detectados tiene que estar activa",
     layersAreInvisibleOrOutOfScaleRange: "Layers are invisible or out of scale range.",
     relatedTables: "Related tables:",
     relatedRecords: "Related records:",
