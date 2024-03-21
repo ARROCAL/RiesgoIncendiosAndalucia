@@ -290,9 +290,9 @@
         "name": "Legend",
         "version": "2.27",
         "uri": "widgets/Legend/Widget",
-        "config": "configs/Legend/config_widgets_Legend_Widget_25.json",
+        "config": "configs/Legend/config_widgets_Legend_Widget_18.json",
         "index": 2,
-        "id": "widgets_Legend_Widget_25"
+        "id": "widgets_Legend_Widget_18"
       },
       {
         "uri": "widgets/LayerList/Widget",
