@@ -36,8 +36,8 @@
       "url": "https://firms.modaps.eosdis.nasa.gov/map/#d:today;@-4.5,37.5,8.4z"
     },
     {
-      "label": "-Documentación",
-      "url": "https://www.google.es"
+      "label": "Documentación",
+      "url": "https://arrocal.github.io/riesgoincendiosandalucia/MEMORIA.pdf"
     }
   ],
   "widgetOnScreen": {
@@ -287,13 +287,12 @@
     },
     "widgets": [
       {
-        "uri": "widgets/Legend/Widget",
-        "version": "2.27",
-        "id": "widgets_Legend_Widget_18",
         "name": "Legend",
+        "version": "2.27",
+        "uri": "widgets/Legend/Widget",
+        "config": "configs/Legend/config_widgets_Legend_Widget_25.json",
         "index": 2,
-        "label": "Leyenda",
-        "config": "configs/Legend/config_widgets_Legend_Widget_18.json"
+        "id": "widgets_Legend_Widget_25"
       },
       {
         "uri": "widgets/LayerList/Widget",
@@ -333,7 +332,7 @@
         "uri": "widgets/BasemapGallery/Widget",
         "config_2": "configs/BasemapGallery/config_widgets_BasemapGallery_Widget_24.json",
         "config": "configs/BasemapGallery/config_widgets_BasemapGallery_Widget_24.json",
-        "index": 8,
+        "index": 7,
         "id": "widgets_BasemapGallery_Widget_24"
       }
     ],
@@ -519,10 +518,8 @@
   "isTemplateApp": true,
   "isWebTier": false,
   "httpProxy": {
-    "useProxy": true,
-    "alwaysUseProxy": false,
-    "url": "",
-    "rules": []
+    "useProxy": false,
+    "url": "https://aarroyoc10a.indra.es:3344/proxy.js"
   },
   "dataSource": {
     "dataSources": {},
