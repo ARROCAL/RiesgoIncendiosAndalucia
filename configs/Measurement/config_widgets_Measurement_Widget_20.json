@@ -5,7 +5,7 @@
   },
   "showArea": true,
   "showDistance": true,
-  "showLocation": true,
+  "showLocation": false,
   "defaultAreaUnit": "esriSquareMiles",
   "defaultLengthUnit": "esriMiles",
   "isOperationalLayer": false
