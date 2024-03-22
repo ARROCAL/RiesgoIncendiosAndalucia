@@ -133,7 +133,8 @@
         "closeable": true,
         "uri": "widgets/Chart/Widget",
         "name": "Chart",
-        "config": "configs/Chart/config__8.json"
+        "config": "configs/Chart/config__8.json",
+        "label": "Análisis de Focos de Incendios Forestales"
       },
       {
         "position": {
@@ -324,7 +325,8 @@
         "uri": "widgets/AddData/Widget",
         "config": "configs/AddData/config_widgets_AddData_Widget_23.json",
         "index": 6,
-        "id": "widgets_AddData_Widget_23"
+        "id": "widgets_AddData_Widget_23",
+        "label": "Añadir capas"
       },
       {
         "name": "BasemapGallery",
