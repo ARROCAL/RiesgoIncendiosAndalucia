@@ -1,7 +1,5 @@
 {
-	"urlAemet":"https://opendata.aemet.es/opendata/api/prediccion/especifica/municipio/diaria/{muni}/?api_key=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhcnJvY2FsQGhvdG1haWwuY29tIiwianRpIjoiOWY0OGQ5YTktMTBmMy00ZTQ0LTk3NDItYjFhOGVjYmQ3YmNkIiwiaXNzIjoiQUVNRVQiLCJpYXQiOjE2OTQ5NjI4NTQsInVzZXJJZCI6IjlmNDhkOWE5LTEwZjMtNGU0NC05NzQyLWIxYThlY2JkN2JjZCIsInJvbGUiOiIifQ.qiiwiL0_48T_ssh3pepNMwkTiu0Uu9tKVADm60ZkWMw",
-    "urlMunicipiosPorProvincia":"https://services6.arcgis.com/hGh8eanLacYgrx0E/ArcGIS/rest/services/PROV_MUNI_ANDALUCIA/FeatureServer/0/query?where=PROVINCIA={provincia}&outFields=*&f=json",
-    "urlRiesgsoAemetPorProvincia": "https://www.aemet.es/es/eltiempo/prediccion/incendios?p={codProv}",
-    "valorPeligro": "30"
-
+"urlAemet":"https://opendata.aemet.es/opendata/api/prediccion/especifica/municipio/diaria/{muni}/?api_key=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhcnJvY2FsQGhvdG1haWwuY29tIiwianRpIjoiOWY0OGQ5YTktMTBmMy00ZTQ0LTk3NDItYjFhOGVjYmQ3YmNkIiwiaXNzIjoiQUVNRVQiLCJpYXQiOjE2OTQ5NjI4NTQsInVzZXJJZCI6IjlmNDhkOWE5LTEwZjMtNGU0NC05NzQyLWIxYThlY2JkN2JjZCIsInJvbGUiOiIifQ.qiiwiL0_48T_ssh3pepNMwkTiu0Uu9tKVADm60ZkWMw",
+"urlMunicipiosPorProvincia":"https://services6.arcgis.com/hGh8eanLacYgrx0E/ArcGIS/rest/services/PROV_MUNI_ANDALUCIA/FeatureServer/0/query?where=PROVINCIA={provincia}&outFields=*&f=json",
+"valorPeligro": "30"
 }

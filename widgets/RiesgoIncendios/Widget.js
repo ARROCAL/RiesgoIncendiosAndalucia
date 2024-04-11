@@ -182,10 +182,6 @@ function(declare, BaseWidget, _WidgetsInTemplateMixin, on, lang, Deferred, dom, 
         var linkAemetMuni=dom.byId("idLinkAemetMuni");
         linkAemetMuni.href=urllinkAemetMuni;
        
-       //var codProv=dom.byId("idSelectProvincia").value;
-       //var linkAemetMuni=dom.byId("idRiesgoAemetPorProvincia");
-       //linkAemetMuni.href=this.config.urlRiesgsoAemetPorProvincia.replace("{codProv}", codProv);
-
         domStyle.set(dom.byId("idDivResult"), "display", "block");
       
       },//FIN FUNCION
