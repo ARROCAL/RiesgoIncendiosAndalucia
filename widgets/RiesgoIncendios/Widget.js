@@ -113,6 +113,7 @@ function(declare, BaseWidget, _WidgetsInTemplateMixin, on, lang, Deferred, dom, 
         //HUMEDAD
         var wetMax=res[0].prediccion.dia[0].humedadRelativa.maxima;
         var wetMin=res[0].prediccion.dia[0].humedadRelativa.minima;
+		wetMin=40
 
         if (wetMin < this.config.valorPeligro){
           domStyle.set(dom.byId("idLiWetMin"), "color", "red");
@@ -181,9 +182,9 @@ function(declare, BaseWidget, _WidgetsInTemplateMixin, on, lang, Deferred, dom, 
         var linkAemetMuni=dom.byId("idLinkAemetMuni");
         linkAemetMuni.href=urllinkAemetMuni;
        
-        var codProv=dom.byId("idSelectProvincia").value;
-        var linkAemetMuni=dom.byId("idRiesgoAemetPorProvincia");
-        linkAemetMuni.href=this.config.urlRiesgsoAemetPorProvincia.replace("{codProv}", codProv);
+       //var codProv=dom.byId("idSelectProvincia").value;
+       //var linkAemetMuni=dom.byId("idRiesgoAemetPorProvincia");
+       //linkAemetMuni.href=this.config.urlRiesgsoAemetPorProvincia.replace("{codProv}", codProv);
 
         domStyle.set(dom.byId("idDivResult"), "display", "block");
       
