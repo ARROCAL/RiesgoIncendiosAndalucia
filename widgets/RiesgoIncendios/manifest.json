@@ -1,22 +1,25 @@
 {
-  "name": "RiesgoIncendios",
+  "name": "Prediccion_meteorologica",
   "platform": "HTML",
-  "version": "2.27",
+  "version": "1.0",
   "wabVersion": "2.27",
-  "author": "Esri R&D Center Beijing",
-  "description": "This is the widget used in developer guide",
-  "copyright": "",
-  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "author": "Álvaro Arroyo Calzada",
+  "description": "Herramienta para recuperar los datos meteorológicos (temperatura, humedad, velocidad del viento) para municipios de Andalucía",
+  "copyright": "©Álvaro Arroyo Calzada",
+  "license": "Uso y modificación libre citando al autor",
   "properties": {
-		"inPanel":true,
-		"hasLocale": true,
-		"hasStyle":true,
-		"hasConfig":true,
-		"hasUIFile":true,
-		"hasSettingPage":false,
-		"hasSettingUIFile":false,
-		"hasSettingLocale":false,
-		"hasSettingStyle":false,
-		"IsController":false
+		"inPanel":true, 
+		"hasLocale": true, 
+		"hasStyle":true, 
+		"hasConfig":true, 
+		"hasUIFile":true
   }
 }
+
+
+
+
+
+
+
+
