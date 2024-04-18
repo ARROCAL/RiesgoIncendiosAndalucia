@@ -384,7 +384,7 @@ define(["dojo/_base/declare",
             content: this.addFromFilePane.domNode
           });
         }
-		alert("holaaaaa");
+		
 		//aac		
 		var check= dojo.query(".generalize-options");
 		check[0].hidden=true
