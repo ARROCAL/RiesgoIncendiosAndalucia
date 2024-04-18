@@ -60,6 +60,9 @@ define(["dojo/_base/declare",
         if (this._started) {
           return;
         }
+		
+		
+		
         var self = this,  args = arguments;
         this._getUser().then(function(user) {
           //console.warn("AddData.user=",user);
@@ -381,6 +384,11 @@ define(["dojo/_base/declare",
             content: this.addFromFilePane.domNode
           });
         }
+		alert("holaaaaa");
+		//aac		
+		var check= dojo.query(".generalize-options");
+		check[0].hidden=true
+		//fin aac
 
         var self = this;
         if (tabs.length > 0) {
@@ -421,7 +429,10 @@ define(["dojo/_base/declare",
       },
 
       onOpen: function() {
-        var bSearch = (this.searchPane && this._searchOnOpen);
+		
+		
+        
+		var bSearch = (this.searchPane && this._searchOnOpen);
         this._isOpen = true;
         this._searchOnOpen = false;
         this.resize();
