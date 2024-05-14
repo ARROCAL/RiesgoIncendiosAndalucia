@@ -124,9 +124,16 @@ define([
         this._worksAfterDestory();
         this._prepareCreating();
         this.onOpen();
+	
       },
 
       onOpen: function() {
+		  
+		  
+		  
+		  
+	
+		  //var itemSymbolNodes = query(".itemSymbol", this.editor.templatePicker.domNode);
 
         // if there are layers added while the edit widget is closed, should refresh edit widget.
         if(this._newAddedLayersWhileEditWidgetIsClosed && this._newAddedLayersWhileEditWidgetIsClosed.length > 0) {
@@ -148,6 +155,15 @@ define([
 
         // bind event
         this._bindEventAfterOpen();
+		
+			//AAC
+		 var label= query(".itemLabel");
+		 if  (label[0]){
+			 alert("OK")
+			 label.innerHTML="Nuevo foco de incendio"
+		 }
+		 //AAC
+		
       },
 
       onClose: function() {
@@ -223,6 +239,10 @@ define([
         }), lang.hitch(this, function() {
           this.loading.hide();
         }));
+		
+		
+		
+		
       },
 
       _init: function() {
@@ -253,6 +273,8 @@ define([
         this._temporaryDataForEditingRelatedGraphicSession = {};
         this._layerInfosChangedWhenEditingSessionFlag = false;
         this._newAddedLayersWhileEditWidgetIsClosed = [];
+		
+		
       },
 
       _initEditPrivilege: function(user) {
@@ -269,6 +291,8 @@ define([
           this._hasEditPrivilege = userRole.canEditFeatures();
         }
         return this._hasEditPrivilege;
+		
+		
       },
 
       /*******************************

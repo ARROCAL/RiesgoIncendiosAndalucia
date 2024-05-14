@@ -1,7 +1,7 @@
 {
   "editor": {
-    "enableUndoRedo": true,
-    "toolbarVisible": false,
+    "enableUndoRedo": false,
+    "toolbarVisible": true,
     "toolbarOptions": {
       "mergeVisible": false,
       "cutVisible": false,
