@@ -159,7 +159,7 @@ define([
 			//AAC
 		 var label= query(".itemLabel");
 		 if  (label[0]){
-			 alert("OK")
+			 
 			 label.innerHTML="Nuevo foco de incendio"
 		 }
 		 //AAC

@@ -216,7 +216,7 @@ function(declare, BaseWidget, _WidgetsInTemplateMixin, on, lang, Deferred, dom, 
 
       manageErrorAemet: function()
       {
-        alert ("ERROR AEMET")
+       
         new Message({titleLabel:"Error", message: "Se ha producido un error al consultar los datos de la AEMET. Contacte con el Administrador."});
       },
 
