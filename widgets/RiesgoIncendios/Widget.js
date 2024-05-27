@@ -298,6 +298,7 @@ function(declare, BaseWidget, _WidgetsInTemplateMixin, on, lang, Deferred, dom, 
       },
 
       onOpen: function(){
+		  alert("1")
         var panel = this.getPanel();    
         panel.position.width = 535; 
         panel.position.height = 535; 
