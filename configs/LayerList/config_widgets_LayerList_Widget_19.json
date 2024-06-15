@@ -2,7 +2,7 @@
   "showTitle": true,
   "showBasemap": false,
   "showLegend": true,
-  "expandAllLayersByDefault": true,
+  "expandAllLayersByDefault": false,
   "contextMenu": {
     "ZoomTo": false,
     "Transparency": false,
@@ -14,19 +14,76 @@
     "DescriptionOrShowItemDetailsOrDownload": false
   },
   "layerOptions": {
+    "CCAA_wgs1984_wm_3005": {
+      "display": true
+    },
+    "Prov_554": {
+      "display": true
+    },
+    "muni_6264": {
+      "display": true
+    },
     "FocosIncendios_8331": {
       "display": true
     },
-    "Prov_34": {
+    "wms_2972": {
       "display": true
     },
-    "muni_6538": {
+    "wms_2972_riesgo_pendientes_exposiciones": {
+      "display": true
+    },
+    "wms_2972_riesgo_propagacion_incendios_viento": {
+      "display": true
+    },
+    "wms_2972_riesgo_propagacion_incendios_topograficos": {
+      "display": true
+    },
+    "wms_6940": {
+      "display": true
+    },
+    "wms_6940_zona_pel_incendios": {
+      "display": true
+    },
+    "wms_7461": {
+      "display": true
+    },
+    "wms_7461_PARCELA": {
       "display": true
     },
     "wms_9725": {
       "display": true
     },
     "wms_9725_LC.LandCoverSurfaces": {
+      "display": true
+    },
+    "wms_7315": {
+      "display": true
+    },
+    "wms_7315_geoparques": {
+      "display": true
+    },
+    "wms_7315_patrimonio_humanidad": {
+      "display": true
+    },
+    "wms_7315_ZEPIM": {
+      "display": true
+    },
+    "wms_7315_reservas_biosfera": {
+      "display": true
+    },
+    "wms_7315_red_natura_2000": {
+      "display": true
+    },
+    "wms_7315_humedales_ramsar": {
+      "display": true
+    },
+    "wms_7315_eennpp": {
+      "display": true
+    },
+    "wms_8634": {
+      "display": true
+    },
+    "wms_8634_c4_13": {
       "display": true
     },
     "wms_4118": {
@@ -51,12 +108,6 @@
       "display": true
     },
     "wms_372_elevaciones_02": {
-      "display": true
-    },
-    "wms_8634": {
-      "display": true
-    },
-    "wms_8634_c4_13": {
       "display": true
     }
   }
