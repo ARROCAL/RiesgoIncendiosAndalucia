@@ -3,8 +3,8 @@
   "showInfoWindowOnSelect": false,
   "sources": [
     {
-      "layerId": "muni_3320",
-      "url": "https://services1.arcgis.com/nCKYwcSONQTkPA4K/arcgis/rest/services/muni/FeatureServer/6",
+      "layerId": "muni_6264",
+      "url": "https://services1.arcgis.com/nCKYwcSONQTkPA4K/ArcGIS/rest/services/muni/FeatureServer/0",
       "name": "Municipios",
       "placeholder": "",
       "searchFields": [],
@@ -18,10 +18,10 @@
       "type": "query"
     },
     {
-      "layerId": "Prov_34",
-      "url": "https://services1.arcgis.com/nCKYwcSONQTkPA4K/arcgis/rest/services/Prov/FeatureServer/3",
+      "layerId": "Prov_554",
+      "url": "https://services1.arcgis.com/nCKYwcSONQTkPA4K/ArcGIS/rest/services/Prov/FeatureServer/0",
       "name": "Provincias",
-      "placeholder": "Provincia",
+      "placeholder": "",
       "searchFields": [],
       "displayField": "NAMEUNIT",
       "exactMatch": false,
