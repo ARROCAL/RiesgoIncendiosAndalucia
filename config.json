@@ -21,7 +21,7 @@
   "portalUrl": "https://arrocalesri.maps.arcgis.com",
   "appId": "",
   "authorizedCrossOriginDomains": [],
-  "title": "Riesgo Incendios Andalucía",
+  "title": "Riesgo de Incendios Andalucía",
   "subtitle": "by Álvaro Arroyo",
   "keepAppState": false,
   "logo": "",
@@ -100,8 +100,8 @@
         },
         "placeholderIndex": 1,
         "id": "_6",
-        "name": "RiesgoIncendios",
-        "version": "2.27",
+        "name": "Prediccion_meteorologica",
+        "version": "1.0",
         "closeable": true,
         "uri": "widgets/RiesgoIncendios/Widget",
         "IsController": false,
@@ -260,10 +260,10 @@
         }
       ],
       "extent": {
-        "xmin": -984156.0246192806,
-        "ymin": 4296763.568339431,
-        "xmax": -54681.760671583506,
-        "ymax": 4823873.31539398,
+        "xmin": -980826.2537588848,
+        "ymin": 4249937.523060371,
+        "xmax": -51351.989811187756,
+        "ymax": 4745860.96257457,
         "spatialReference": {
           "wkid": 102100
         }
