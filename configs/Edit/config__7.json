@@ -11,9 +11,9 @@
     "layerInfos": [
       {
         "featureLayer": {
-          "id": "FocosIncendios_8331"
+          "id": "FocosIncendios_6220"
         },
-        "disableGeometryUpdate": true,
+        "disableGeometryUpdate": false,
         "allowCreate": true,
         "allowDelete": true,
         "fieldInfos": [
@@ -85,7 +85,7 @@
           },
           {
             "fieldName": "VELOCIDAD_VIENTO",
-            "label": "VELOCIDAD DEL VIENTO (Km\\h))",
+            "label": "VELOCIDAD DEL VIENTO (Km\\h)",
             "isEditable": true,
             "visible": true
           },
@@ -110,6 +110,12 @@
           {
             "fieldName": "SUPERFICIE_QUEMADA",
             "label": "SUPERFICIE QUEMADA (Ha)",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "REFERENCIA_CATASTRAL",
+            "label": "REFERENCIA_CATASTRAL",
             "isEditable": true,
             "visible": true
           }
