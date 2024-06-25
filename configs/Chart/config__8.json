@@ -33,9 +33,9 @@
           "style": "esriSLSSolid"
         }
       },
-      "webMapLayerId": "FocosIncendios_8331",
+      "webMapLayerId": "FocosIncendios_6220",
       "mode": "count",
-      "name": "Focos de incendios detectados por origen",
+      "name": "Focos de Incendios detectados por origen",
       "highLightColor": "#ff0000",
       "types": [
         {
@@ -88,9 +88,9 @@
           "style": "esriSLSSolid"
         }
       },
-      "webMapLayerId": "FocosIncendios_8331",
+      "webMapLayerId": "FocosIncendios_6220",
       "mode": "count",
-      "name": "Focos de incendios detectados por modelo de combustible",
+      "name": "Focos de Incendios detectados por modelo de combustible",
       "highLightColor": "#ff0000",
       "types": [
         {
@@ -143,9 +143,9 @@
           "style": "esriSLSSolid"
         }
       },
-      "webMapLayerId": "FocosIncendios_8331",
+      "webMapLayerId": "FocosIncendios_6220",
       "mode": "count",
-      "name": "Focos de incendios detectados por provincia",
+      "name": "Focos de Incendios detectados por provincia",
       "highLightColor": "#ff0000",
       "types": [
         {
@@ -198,9 +198,9 @@
           "style": "esriSLSSolid"
         }
       },
-      "webMapLayerId": "FocosIncendios_8331",
+      "webMapLayerId": "FocosIncendios_6220",
       "mode": "count",
-      "name": "Focos de incendios detectados por especie principal",
+      "name": "Focos de Incendios detectados por especie principal",
       "highLightColor": "#ff0000",
       "types": [
         {
@@ -253,9 +253,9 @@
           "style": "esriSLSSolid"
         }
       },
-      "webMapLayerId": "FocosIncendios_8331",
+      "webMapLayerId": "FocosIncendios_6220",
       "mode": "count",
-      "name": "Focos de incendios detectados por especie secundaria",
+      "name": "Focos de Incendios detectados por especie secundaria",
       "highLightColor": "#ff0000",
       "types": [
         {
@@ -308,10 +308,10 @@
           "style": "esriSLSSolid"
         }
       },
-      "webMapLayerId": "FocosIncendios_8331",
+      "webMapLayerId": "FocosIncendios_6220",
       "mode": "count",
-      "name": "Focos de incendios detectados por pendiente (%)",
-      "highLightColor": "#da2b14",
+      "name": "Focos de Incendios detectados por pendiente (%)",
+      "highLightColor": "#ff0000",
       "types": [
         {
           "type": "column",
@@ -363,9 +363,9 @@
           "style": "esriSLSSolid"
         }
       },
-      "webMapLayerId": "FocosIncendios_8331",
+      "webMapLayerId": "FocosIncendios_6220",
       "mode": "count",
-      "name": "Focos de incendios detectados por altitud  (m)",
+      "name": "Focos de Incendios detectados por altitud (m)",
       "highLightColor": "#ff0000",
       "types": [
         {
@@ -418,9 +418,9 @@
           "style": "esriSLSSolid"
         }
       },
-      "webMapLayerId": "FocosIncendios_8331",
+      "webMapLayerId": "FocosIncendios_6220",
       "mode": "count",
-      "name": "Focos de Incendios detectados por temperatura (ºC)",
+      "name": "Focos de Incendios detectados pot temperatura (ºC)",
       "highLightColor": "#ff0000",
       "types": [
         {
@@ -473,7 +473,7 @@
           "style": "esriSLSSolid"
         }
       },
-      "webMapLayerId": "FocosIncendios_8331",
+      "webMapLayerId": "FocosIncendios_6220",
       "mode": "count",
       "name": "Focos de Incendios detectados por humedad (%)",
       "highLightColor": "#ff0000",
@@ -528,9 +528,9 @@
           "style": "esriSLSSolid"
         }
       },
-      "webMapLayerId": "FocosIncendios_8331",
+      "webMapLayerId": "FocosIncendios_6220",
       "mode": "count",
-      "name": "Focos de incendios detectados por velocidad del viento (Km\\h)",
+      "name": "Focos de Incendios detectados por velocidad de viento (Km\\h)",
       "highLightColor": "#ff0000",
       "types": [
         {
@@ -583,7 +583,7 @@
           "style": "esriSLSSolid"
         }
       },
-      "webMapLayerId": "FocosIncendios_8331",
+      "webMapLayerId": "FocosIncendios_6220",
       "mode": "count",
       "name": "Focos de Incendios detectados por FCC (%)",
       "highLightColor": "#ff0000",
@@ -638,9 +638,9 @@
           "style": "esriSLSSolid"
         }
       },
-      "webMapLayerId": "FocosIncendios_8331",
+      "webMapLayerId": "FocosIncendios_6220",
       "mode": "count",
-      "name": "Focos de incendios detectados por superficie quemada (Ha)",
+      "name": "Focos de Incendios detectados por superficie quemada (Ha)",
       "highLightColor": "#ff0000",
       "types": [
         {
